@@ -1,0 +1,29 @@
+.mega-menu {
+    background-color: #cc3333;
+    width: 100rem;
+    overflow: hidden;
+    padding: 1rem;
+    float: left;
+}
+
+.mega-menu .col-md-3 {
+    color: white
+}
+
+.mega-menu .col-md-3 {
+    color: white;
+
+}
+
+.svg-inline--fa .fa-w-14 {
+    color: white;
+}
+
+.mega-menu p a {
+    color: white;
+
+}
+
+.drop-down.mega-menu {
+    margin-right: 13rem;
+}
